@@ -16,3 +16,5 @@ A lightweight web utility built with JavaScript that allows users to share their
 1. Open the project folder.
 2. Open index.html in any modern browser that supports the Picture-in-Picture API (Chrome, Edge, Opera, etc.).
 3. Click the START button, choose your display or window source, and activate PiP mode
+# live demo
+https://noamesielena.github.io/Picture-in-Picture/
